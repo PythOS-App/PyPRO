@@ -2,7 +2,7 @@
 name: App Addition Request
 about: Request the addition and certification of an app
 title: 'App Request: '
-labels: documentation, enhancement
+labels: app, documentation, enhancement
 assignees: captainawesomejnr
 
 ---
