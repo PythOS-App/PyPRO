@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: PythOS Discussions Page
+    url: https://github.com/orgs/Captain-Awesome-Jnr/discussions
+    about: Please ask and answer questions here.
+  - name: Security Reporting Page - PythOS Pro
+    url: https://github.com/Captain-Awesome-Jnr/PyPRO/security/advisories?state=Any
+    about: Please report security vulnerabilities here.
