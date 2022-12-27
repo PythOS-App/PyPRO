@@ -11,5 +11,5 @@ The new package for PythOS!
 
 Yes, that's all you need!
 
-### More info 🧙‍♀️
+### More info 🧙‍
 There is some setup required, which can be read in the README.txt attached with your release.
