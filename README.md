@@ -1,13 +1,11 @@
 # PythOS Pro
 The new package for PythOS!
 ### Requirements ✔
-- The normal [PythOS](https://github.com/Captain-Awesome-Jnr/PythOS)
+- The normal [PythOS](https://github.com/Captain-Awesome-Jnr/PythOS), and everything it reqires.
 
-.
 
-..
 
-...
+
 
 Yes, that's all you need!
 
